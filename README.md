@@ -1,4 +1,4 @@
-# JS-Clock# JavaScript Clock
+# JS-Clock
 
 ![Clock Screenshot](JSClock.png)
 
@@ -8,7 +8,7 @@ The JavaScript Clock is a simple web application that displays the current time 
 
 - **Real-time Display**: The clock updates in real-time, accurately reflecting the current time.
 - **Digital Format**: The time is displayed in a digital format, making it easy to read.
-- **Responsive Design**: The clock is designed to adapt to different screen sizes and devices.
+
 
 ## How to Use
 
