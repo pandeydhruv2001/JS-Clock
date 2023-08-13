@@ -44,7 +44,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or suggestions, please contact [dp0689@srmist.edu.in](mailto:your@email.com).
+For any inquiries or suggestions, please contact [dp0689@srmist.edu.in](mailto:dp0689@srmist.edu.in).
 
 Contributions to enhance the clock's features or design are welcome! Feel free to submit pull requests or create issues.
 
